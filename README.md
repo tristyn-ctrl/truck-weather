@@ -9,4 +9,4 @@ Before: Wind speed was in km/h
 After: Now windspeed in read in mp/h 
 
 ## Live site
-https://username.github.io/truck-weather/
+https://tristyn-ctrl.github.io/truck-weather/
